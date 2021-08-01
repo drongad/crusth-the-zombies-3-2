@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "zombie-crush-boilerplate-main",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/zombie-crush-assets-main/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "zombie-crush-boilerplate-main"
+	}
+}
